@@ -15,7 +15,7 @@
 - Disable :TPM、Intel TXT、Virtualization Technology for Directed I/O (VTd)、LAN/WLAN auto switching 
 - Enable:Intel Management Enginge (ME) in "Advanced -  Remote Management Options"
 
-- ⚠️⚠️⚠️
+#### ⚠️⚠️⚠️
 - Do not use D1820A, it will cause problems such as failure to install the system normally or inaccessibility of the system.
 
 #### Screenshots:
