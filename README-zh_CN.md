@@ -6,7 +6,7 @@
 - 32 GB DDR4 (2x 16GB) 
 - Full HD non-touch display (1920x1080) 
 - UVC Camera VendorID_1226 ProductID_28782 
-- No ambient light sensor 
+- 无光线感应器 
 - 海康威视 C2000Pro 512GB M.2 SSD NVMe 
 - Intel WiFi AC8260
 - 
