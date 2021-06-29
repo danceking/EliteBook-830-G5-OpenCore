@@ -1,5 +1,5 @@
 # Hackintosh-830-G5-OpenCore
-[中文](https://github.com/danceking/Hackintosh-830-G5-OpenCore/readme_cn.md)
+[中文](./README-zh_CN.md)
 #### My configuration:
 - Intel Core i5- 8350U 
 - Intel UHD 620 
