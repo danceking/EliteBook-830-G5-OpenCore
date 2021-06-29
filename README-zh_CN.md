@@ -16,3 +16,22 @@
 - 打开:Intel Management Enginge (ME) in "Advanced -  Remote Management Options"
 - 
 - ⚠️ 不要使用D1820A无线网卡，否则各种奇怪错误，比如死机、无法安装系统、无法进系统等等。
+
+#### 截图:
+![](./PIC/hacktool_system1.png)
+![](./PIC/hacktool_system2.png)
+![](./PIC/hacktool_info.png)
+![](./PIC/hacktool_boot.png)
+![](./PIC/hacktool_kext.png)
+![](./PIC/hacktool_usb.png)
+![](./PIC/hacktool_disk.png)
+![](./PIC/hacktool_pcie.png)
+![](./PIC/system.png)
+![](./PIC/usb.png)
+![](./PIC/graphics.png)
+![](./PIC/camera.png)
+![](./PIC/power.png)
+![](./PIC/bluetooh.png)
+![](./PIC/batter.png)
+![](./PIC/charge.png)
+![](./PIC/mircophone.png)
