@@ -9,13 +9,14 @@
 - No ambient light sensor 
 - HIKVISION C2000Pro 512GB M.2 SSD NVMe 
 - Intel WiFi AC8260
-- 
+
 #### BIOS: 
 - Set:Video Memory size set to 64 MB 
 - Disable :TPM、Intel TXT、Virtualization Technology for Directed I/O (VTd)、LAN/WLAN auto switching 
 - Enable:Intel Management Enginge (ME) in "Advanced -  Remote Management Options"
-- 
-- ⚠️ Do not use D1820A, it will cause problems such as failure to install the system normally or inaccessibility of the system.
+
+- ⚠️⚠️⚠️
+- Do not use D1820A, it will cause problems such as failure to install the system normally or inaccessibility of the system.
 
 #### Screenshots:
 ![](./PIC/hacktool_system1.png)
