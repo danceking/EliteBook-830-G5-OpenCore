@@ -1,4 +1,3 @@
-# Hackintosh-830-G5-OpenCore
 [English](./README.md)
 #### 我的配置:
 - Intel Core i5-8350U
