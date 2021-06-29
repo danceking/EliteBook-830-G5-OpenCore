@@ -15,7 +15,7 @@
 - Enable:Intel Management Enginge (ME) in "Advanced -> Remote Management Options"
 
 #### ⚠️⚠️⚠️
-- Do not use D1820A, it will cause problems such as failure to install the system normally or inaccessibility of the system.
+- Do not use DW1820A, it will cause problems such as failure to install the system normally or inaccessibility of the system.
 
 #### Screenshots:
 ![](./PIC/hacktool_system1.png)
