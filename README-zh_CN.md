@@ -34,6 +34,9 @@
 - 读卡器
 - 指纹
 
+#### Wifi使用说明：
+- 下载[HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases)并安装,关闭系统wifi图标, 重启后使用HeliPort搜索wifi热点并连接.
+
 #### ⚠️⚠️⚠️
 - 不要使用DW1820A无线网卡，否则各种奇怪错误，比如死机、无法安装系统、无法进系统等等。
 
