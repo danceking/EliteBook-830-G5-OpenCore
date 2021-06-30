@@ -2,7 +2,7 @@
 #### My configuration:
 - Intel Core i5-8350U
 - Intel UHD 620
-- 32 GB DDR4 (2x 16GB)
+- 32 GB DDR4 (2x16GB)
 - Full HD non-touch display (1920x1080)
 - UVC Camera VendorID_1226 ProductID_28782
 - No ambient light sensor
