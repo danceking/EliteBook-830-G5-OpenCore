@@ -14,6 +14,25 @@
 - Disable :TPM、Intel TXT、Virtualization Technology for Directed I/O (VTd)、LAN/WLAN auto switching 
 - Enable:Intel Management Enginge (ME) in "Advanced -> Remote Management Options"
 
+#### Works:
+- Speakers
+- Headphones output
+- Trackpad with gestures
+- USB 3 Ports
+- USB-C (Can use TypeC-DP to monitor 2K)
+- HP Webcam
+- LAN/Ethernet
+- Fn keys to change volume or brightness
+- Battery percentage/status
+- Sleep/Wake-up
+- HDMI Out
+- Bluetooth
+- WiFi
+
+#### Doesn't Work
+- Joystick Mouse
+- Smart Card Reader
+
 #### ⚠️⚠️⚠️
 - Do not use DW1820A, it will cause problems such as failure to install the system normally or inaccessibility of the system.
 
@@ -35,3 +54,5 @@
 ![](./PIC/batter.png)
 ![](./PIC/charge.png)
 ![](./PIC/mircophone.png)
+
+#### Thanks for every hackintosher
