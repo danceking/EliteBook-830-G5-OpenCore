@@ -59,5 +59,12 @@
 ![](./PIC/batter.png)
 ![](./PIC/charge.png)
 ![](./PIC/mircophone.png)
+![](./PIC/sensors.png)
+![](./PIC/geekbench_cpu.png)
+![](./PIC/geekbench_gpu_opencl.png)
+![](./PIC/geekbench_gpu_metal.png)
+![](./PIC/intelpowergadget_1.png)
+![](./PIC/intelpowergadget_2.png)
+![](./PIC/videoproc.png)
 
 #### Thanks for every hackintosher
