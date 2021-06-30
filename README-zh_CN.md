@@ -26,8 +26,8 @@
 - 电池百分比和状态
 - 睡眠和唤醒
 - HDMI输出
-- 蓝牙
-- WiFi
+- [蓝牙](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [WiFi](https://github.com/OpenIntelWireless/itlwm)
 
 #### 无法工作:
 - 小黑帽呀·鼠标
