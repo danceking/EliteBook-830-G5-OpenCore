@@ -17,6 +17,7 @@
 #### Works:
 - Speakers
 - Headphones output
+- 
 - Trackpad with gestures
 - USB 3 Ports
 - USB-C (Can use TypeC-DP to monitor 2K)
