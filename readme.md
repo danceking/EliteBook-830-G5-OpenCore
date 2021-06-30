@@ -32,6 +32,7 @@
 #### Doesn't Work
 - Joystick Mouse
 - Smart Card Reader
+- fingerprint sensor
 
 #### ⚠️⚠️⚠️
 - Do not use DW1820A, it will cause problems such as failure to install the system normally or inaccessibility of the system.
