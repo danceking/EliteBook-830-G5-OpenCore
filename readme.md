@@ -26,8 +26,8 @@
 - Battery percentage/status
 - Sleep/Wake-up
 - HDMI Out
-- Bluetooth
-- WiFi
+- [Bluetooth](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [WiFi](https://github.com/OpenIntelWireless/itlwm)
 
 #### Doesn't Work
 - Joystick Mouse
