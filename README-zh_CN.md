@@ -30,7 +30,7 @@
 - [WiFi](https://github.com/OpenIntelWireless/itlwm)
 
 #### 无法工作:
-- 小黑帽呀·鼠标
+- 小黑帽鼠标
 - 读卡器
 
 #### ⚠️⚠️⚠️
