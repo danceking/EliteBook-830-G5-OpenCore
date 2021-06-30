@@ -35,7 +35,7 @@
 - fingerprint sensor
 
 #### Wifi Useage：
-- download [HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases) and install, close system wifi configuration sysbar, open HeliPort search wifi access point to connection.
+- download [HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases) and install, close system wifi icon, open HeliPort search wifi access point to connection.
 
 #### ⚠️⚠️⚠️
 - Do not use DW1820A, it will cause problems such as failure to install the system normally or inaccessibility of the system.
